@@ -1,0 +1,10 @@
+ID,Username,Password,Email,Type
+1,Admin,Alpine,admin@this.domain,MarketPlaceAdmin
+2,Nick,Mountain,nick@that.domain,Buyer
+3,Kane,Benjamin,kane@hello.world,Seller
+4,joe,12345,joe@joe.org,Buyer
+5,john,12345,john@johnny.com,Seller
+6,yordle,yordleman,gg@op.com,Buyer
+7,kasule,thisiskane,litsauce@fam.com,Seller
+8,user1,pass,user@2,Seller
+9,buyer1,pass,buy@now,Buyer
